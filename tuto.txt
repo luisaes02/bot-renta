@@ -1,0 +1,20 @@
+#Bienvenidos #DownloaderFree-Moodle
+————————————————————
+Informacion:
+➡️ El bot solo descarga link de descarga directa.
+————————————————————
+Como Obtengo links de archivos de Telegram?
+➡️ Para obtener o generar el link de descarga directa de cualquier archivo de Telegram deben reenviar ese archivo a uno de los siguientes bot (Pd: Los 3 hacen la misma funcion, doy tres x si alguno no les funciona utilcen otro):
+▶️ @tg_file_link_bot
+▶️ @FileToLink_yte_bot
+▶️ @Link4FilesBot
+————————————————————
+Como descargar de Youtube
+————————————————————
+▶️ Pueden copiar el link de descarga de Youtube y enviarselo a este bot @descargadordevideosbot (Tambien pueden usar este @BajarVideosBot)escojen calidad y formato y el les dara el video o audio segun hayan escojido, luego hacen el paso anterior para obtener el links. Tambien pueden bucar videos en Youtube escribiendo en el bot: @vid nombre de lo q van a buscar. 
+Como descargar?
+————————————————————
+▶️ Una vez ya obtengan el link de descarga solo se lo deben enviar al bot, el automaticamente empezara a descargar y a subir a la nube. Una vez q culmine le devolvera el link de descarga directa y el txt.
+————————————————————
+⚠️ Atencion ⚠️
+▶️ Pese q el bot soporta dos descargas simultaneas solo tenga 1 proceso en ejecucion o descarga, si tienes mas de 1 en ocaciones se puede frizar o bloquear el bot, o subir o descargar a 0.1 kb. No me reponzabilizo si pasa eso..
