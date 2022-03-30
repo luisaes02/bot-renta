@@ -181,7 +181,7 @@ def onmessage(update,bot:ObigramClient):
             config.createUser(username)
             config.saveDB()
             reply_msg = 'Bienvenido ' + username + ' 😄☺️ a: ⏫ DownloaderFree-Moodle ⏫ , EL bot q te ayudara a descargar contenido gratis en cuba ☺️\n'
-            reply_msg+= 'Ya su Cuenta esta Lista para usarse. Si eres nuevo y no sabe usar el bot revise el comando: /tutorial o vea el en grupo un tutorial mas detallado: https://t.me/soportedowloader Video explicativo de uso: https://t.me/soportedowloader/20\n'
+            reply_msg+= 'Ya su Cuenta esta Lista para usarse. Si eres nuevo y no sabe usar vea el en grupo un tutorial mas detallado: https://t.me/soportedowloader . Es necesario q se unan a ese grupo xq ahí se notificará sobre cualquier cambio en el bot, cuando esté en mantenimiento, o cualquier otro problema. Video explicativo de uso: https://t.me/soportedowloader/20\n'
             bot.sendMessage(update.message.chat.id,reply_msg)
         else:
             if '/myuser' != msgText and '/tutorial' not in msgText and '/cancel' not in msgText and '/account' not in msgText and '/host' not in msgText and '/repo' not in msgText:
